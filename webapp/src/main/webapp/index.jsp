@@ -1,5 +1,5 @@
 <h1> Hello, Welcome to koneti Technologies !!! </h1>
-<h2> this is jai !!! </h2>
+<marquee><h2> this is jai koneti </h2></marquee>
 
 
 
